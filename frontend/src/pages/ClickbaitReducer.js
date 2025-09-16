@@ -275,7 +275,7 @@ const ClickbaitReducer = () => {
                       <span>Analyzing and improving headline...</span>
                     </div>
                   )}
-                </Card>
+                </CardContent>
               </Card>
             )}
 
